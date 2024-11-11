@@ -1,10 +1,3 @@
-The extracted project files are extensive, with a significant number of dependencies and configurations. I'll examine core files and components, focusing on essential files like `App.js`, `package.json`, and any documentation files to generate an in-depth README. Let me gather details from these key files and generate the README based on this information.
-
-The primary `App.js` file is located, but the `package.json` and `README.md` files identified are within specific dependencies and not the main project. I’ll inspect `App.js` directly for components and functionality, and based on this, I'll provide a custom README structure.
-
-Based on the content of `App.js`, here’s an outline for the README file.
-
----
 
 # International Payment Portal
 
