@@ -58,10 +58,3 @@ The app will run on `http://localhost:3000`.
 - **TransactionManagement**: Manages transaction processes.
 - **PaymentForm**: Provides a secure payment interface for customers.
 
-## Contributing
-
-Contributions are welcome. Fork the repository, make changes, and submit a pull request.
-
----
-
-This README provides comprehensive guidance for users and developers interacting with the application. Let me know if there are additional specifications to include.
